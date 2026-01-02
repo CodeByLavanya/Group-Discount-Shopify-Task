@@ -1,7 +1,7 @@
 Query to Activate the Discount Function
 
 
-mutation { ** **
+mutation { **  **
   discountAutomaticAppCreate(
     automaticAppDiscount: {
       title: "Group Discounts"
